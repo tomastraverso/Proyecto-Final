@@ -1,0 +1,30 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+.producto {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.sidebar {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: center;
+  position: absolute;
+  width: 20%;
+  left: 60%;
+  flex-direction: column;
+  visibility: hidden;
+  z-index: 1;
+}
+
+.active {
+  visibility: visible;
+}
+
+.inactive {
+  visibility: hidden;
+}

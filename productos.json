@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "Grasa",
+    "precio": 400,
+    "stock": 1,
+    "img": "OIP.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Desengrasante",
+    "precio": 1000,
+    "stock": 1,
+    "img": "OIP.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Aceite",
+    "precio": 1400,
+    "stock": 1,
+    "img": "OIP.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Refrigerante",
+    "precio": 2200,
+    "stock": 1,
+    "img": "OIP.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Descarbonizante",
+    "precio": 650,
+    "stock": 1,
+    "img": "OIP.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Lubricante",
+    "precio": 935,
+    "stock": 1,
+    "img": "OIP.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Cera Acrílica",
+    "precio": 1120,
+    "stock": 1,
+    "img": "OIP.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Limpiador",
+    "precio": 750,
+    "stock": 1,
+    "img": "OIP.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Aditivo Potasa",
+    "precio": 300,
+    "stock": 1,
+    "img": "OIP.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Aceite de corte",
+    "precio": 1650,
+    "stock": 1,
+    "img": "OIP.png"
+  }
+]
